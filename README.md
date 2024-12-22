@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+important links and refrences collected by me 
+[https://stackoverflow.com/questions/70426965/how-to-use-next-redux-wrapper-with-next-js-redux-toolkit-and-typescript-p](url)
+[https://stackblitz.com/edit/github-bizsur-azd1ro?file=src%2Fapp%2Fstore.ts](url)
+
+These two for server side rendering in next js. apply this. main confurigation is on store js 
+you have to use a liberary called [next-redux-wrapper]. next-redux-wrapper helps you manage application state efficiently while taking advantage of Next.js features like SSR and SSG.
+
+[https://github.com/kirill-konshin/next-redux-wrapper](url)
+[https://www.npmjs.com/package/next-redux-wrapper](url)
+
+
+https://next-js-ssr-five.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
