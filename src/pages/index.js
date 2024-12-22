@@ -25,12 +25,12 @@ function HomePage() {
         <meta property="og:title" content="Product List - Decosperts" /> {/* Open Graph title */}
         <meta property="og:description" content="Explore our wide range of products including beauty, fashion, electronics, and more at Decosperts." /> {/* Open Graph description */}
         <meta property="og:type" content="website" /> {/* Open Graph type */}
-        <meta property="og:url" content="https://www.decosperts.com/products" /> {/* Open Graph URL */}
-        <meta property="og:image" content="https://www.decosperts.com/images/og-image.jpg" /> {/* Open Graph image */}
+        <meta property="og:url" content="hts" /> {/* Open Graph URL */}
+        <meta property="og:image" content="htt.jpg" /> {/* Open Graph image */}
         <meta name="twitter:card" content="summary_large_image" /> {/* Twitter card */}
         <meta name="twitter:title" content="Product List - Decosperts" />
         <meta name="twitter:description" content="Explore our wide range of products including beauty, fashion, electronics, and more at Decosperts." />
-        <meta name="twitter:image" content="https://www.decosperts.com/images/twitter-image.jpg" />
+        <meta name="twitter:image" content="htjpg" />
       </Head>
       <h1>Products</h1>
       <div style={{ display: 'flex', flexWrap: 'wrap' }}>
